@@ -1,0 +1,3 @@
+Needed, tested in Ubuntu 18.04 LTS
+
+festival festvox-suopuhe-common festvox-suopuhe-lj festvox-suopuhe-mv libestools2.5  festlex-poslex sox
